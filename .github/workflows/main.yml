@@ -26,8 +26,9 @@ jobs:
       run: echo $JAVA_HOME
 
     - name: check java home 7 AND 6
-      run: echo $CESAR && echo $JAVA_HOME
+      run: echo $java.7.home && echo $JAVA_HOME
       env: 
-          CESAR: /opt/hostedtoolcache/jdk/7.0.312/x64
+          java.7.home: /opt/hostedtoolcache/jdk/7.0.312/x64
+          
 
     
