@@ -26,8 +26,8 @@ jobs:
       run: echo $JAVA_HOME
 
     - name: check java home 7 AND 6
-      run: echo $java.7.home && echo $JAVA_HOME
+      run: echo $CESAR && echo $JAVA_HOME
       env: 
-          java.7.home: $JAVA_HOME_7.0.312_x64
+          CESAR: ${JAVA_HOME_7.0.312_x64}
 
     
