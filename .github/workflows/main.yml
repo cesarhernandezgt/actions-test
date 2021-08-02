@@ -39,6 +39,10 @@ jobs:
       
     - name: check java home 7
       run: ls -latrh /opt/hostedtoolcache/jdk/7.0.312/x64
+      
+      
+    - name: check maven
+      run: mvn -version && javac -version
 #     - name: check java home 7 AND 6
 #       run: echo $java.7.home && echo $JAVA_HOME
 #       env: 
