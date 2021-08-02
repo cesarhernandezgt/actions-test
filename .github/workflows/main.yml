@@ -14,15 +14,15 @@ jobs:
 
     steps:
     - uses: actions/checkout@v2
-    - name: setup jdk 6
+    - name: setup jdk 7
       uses: actions/setup-java@v1
       with:
-        java-version: '6'
+        java-version: '7'
     
     - name: check installation
       run: echo $RUNNER_TOOL_CACHE
     
-    - name: check java home 6
+    - name: check java home 7
       run: echo $JAVA_HOME
 
     
