@@ -1,0 +1,28 @@
+name: main
+on:
+  push:
+    branches:
+      - main
+  pull_request:
+    branches:
+      - main
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+    - uses: actions/checkout@v2
+    - name: setup jdk 6
+      uses: actions/setup-java@v1
+      with:
+        java-version: '6'
+    
+    - name: check installation
+      run: echo $RUNNER_TOOL_CACHE
+    
+    - name: check java home 6
+      run: echo $JAVA_HOME
+
+    
