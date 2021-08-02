@@ -25,14 +25,19 @@ jobs:
     - name: check java home 6
       run: echo $JAVA_HOME
 
+    - name: replace java.7.home
+      run: sed -i.bak ':java.7.home:java.7.home=/opt/hostedtoolcache/jdk/7.0.312/x64:d' build.properties.default
+      
+    - name: check new file
+      run:  cat build.properties.default     
 #     - name: check java home 7 AND 6
 #       run: echo $java.7.home && echo $JAVA_HOME
 #       env: 
 #           java.7.home: /opt/hostedtoolcache/jdk/7.0.312/x64
-    - name: make simlink
-      run: ln -s opt/hostedtoolcache/jdk/7.0.312/x64 /Users/cesar/.sdkman/candidates/java/7u79
+#     - name: make simlink
+#       run: ln -s opt/hostedtoolcache/jdk/7.0.312/x64 /Users/cesar/.sdkman/candidates/java/7u79
       
-    - name: check java home 7 symlink
-      run: ls /Users/cesar/.sdkman/candidates/java/7u79
+#     - name: check java home 7 symlink
+#       run: ls /Users/cesar/.sdkman/candidates/java/7u79
 
     
