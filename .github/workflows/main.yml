@@ -26,7 +26,7 @@ jobs:
       run: echo $JAVA_HOME
 
     - name: replace java.7.home
-      run: sed -i.bak ':java.7.home:java.7.home=/opt/hostedtoolcache/jdk/7.0.312/x64:d' build.properties.default
+      run: sed -i.bak 's:.*java.7.home.*:java.7.home=/opt/hostedtoolcache/jdk/7.0.312/x64:d' build.properties.default
       
     - name: check new file
       run:  cat build.properties.default     
