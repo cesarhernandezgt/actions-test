@@ -29,7 +29,11 @@ jobs:
       run: sed -i.bak 's:.*java.7.home.*:java.7.home=/opt/hostedtoolcache/jdk/7.0.312/x64:' build.properties.default
       
     - name: check new file
-      run:  cat build.properties.default     
+      run:  cat build.properties.default   
+      
+      
+    - name: check java home 7
+      run: ls -latrh /opt/hostedtoolcache/jdk/7.0.312/x64
 #     - name: check java home 7 AND 6
 #       run: echo $java.7.home && echo $JAVA_HOME
 #       env: 
