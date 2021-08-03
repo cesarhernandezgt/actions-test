@@ -41,11 +41,14 @@ jobs:
       run: ls -latrh /opt/hostedtoolcache/jdk/7.0.312/x64
       
     #Known ERRORS   
+    - name: cat failed_result.txt
+      run: cat failed_result.txt
+    
     - name: remove_known_failed
       run: sed -i.bak '/TEST-org.apache.catalina.startup.TestHostConfigAutomaticDeployment/d' failed_result.txt | true
 
 
-    - name: check failed_result.txt
+    - name: cat failed_result.txt
       run: cat failed_result.txt
 #     - name: remove_known_error_2
 #       run: sed -i.bak '/TEST-org.apache.catalina.tribes.group.interceptors.TestNonBlockingCoordinator.NIO.txt/d' error_result.txt | true  
