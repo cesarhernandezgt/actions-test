@@ -1,0 +1,108 @@
+output/build/logs/TEST-org.apache.catalina.startup.TestHostConfigAutomaticDeployment.BIO.txt:	FAILED
+output/build/logs/TEST-org.apache.catalina.startup.TestHostConfigAutomaticDeployment.BIO.txt:	FAILED
+output/build/logs/TEST-org.apache.catalina.startup.TestHostConfigAutomaticDeployment.BIO.txt:	FAILED
+output/build/logs/TEST-org.apache.catalina.startup.TestHostConfigAutomaticDeployment.BIO.txt:	FAILED
+output/build/logs/TEST-org.apache.catalina.startup.TestHostConfigAutomaticDeployment.BIO.txt:	FAILED
+output/build/logs/TEST-org.apache.catalina.startup.TestHostConfigAutomaticDeployment.BIO.txt:	FAILED
+output/build/logs/TEST-org.apache.catalina.startup.TestHostConfigAutomaticDeployment.BIO.txt:	FAILED
+output/build/logs/TEST-org.apache.catalina.startup.TestHostConfigAutomaticDeployment.BIO.txt:	FAILED
+output/build/logs/TEST-org.apache.catalina.startup.TestHostConfigAutomaticDeployment.BIO.txt:	FAILED
+output/build/logs/TEST-org.apache.catalina.startup.TestHostConfigAutomaticDeployment.BIO.txt:	FAILED
+output/build/logs/TEST-org.apache.catalina.startup.TestHostConfigAutomaticDeployment.BIO.txt:	FAILED
+output/build/logs/TEST-org.apache.catalina.startup.TestHostConfigAutomaticDeployment.BIO.txt:	FAILED
+output/build/logs/TEST-org.apache.catalina.startup.TestHostConfigAutomaticDeployment.BIO.txt:	FAILED
+output/build/logs/TEST-org.apache.catalina.startup.TestHostConfigAutomaticDeployment.BIO.txt:	FAILED
+output/build/logs/TEST-org.apache.catalina.startup.TestHostConfigAutomaticDeployment.BIO.txt:	FAILED
+output/build/logs/TEST-org.apache.catalina.startup.TestHostConfigAutomaticDeployment.BIO.txt:	FAILED
+output/build/logs/TEST-org.apache.catalina.startup.TestHostConfigAutomaticDeployment.BIO.txt:	FAILED
+output/build/logs/TEST-org.apache.catalina.startup.TestHostConfigAutomaticDeployment.BIO.txt:	FAILED
+output/build/logs/TEST-org.apache.catalina.startup.TestHostConfigAutomaticDeployment.BIO.txt:expected:<STARTED> but was:<FAILED>
+output/build/logs/TEST-org.apache.catalina.startup.TestHostConfigAutomaticDeployment.BIO.txt:junit.framework.AssertionFailedError: expected:<STARTED> but was:<FAILED>
+output/build/logs/TEST-org.apache.catalina.startup.TestHostConfigAutomaticDeployment.BIO.txt:	FAILED
+output/build/logs/TEST-org.apache.catalina.startup.TestHostConfigAutomaticDeployment.BIO.txt:	FAILED
+output/build/logs/TEST-org.apache.catalina.startup.TestHostConfigAutomaticDeployment.BIO.txt:	FAILED
+output/build/logs/TEST-org.apache.catalina.startup.TestHostConfigAutomaticDeployment.BIO.txt:	FAILED
+output/build/logs/TEST-org.apache.catalina.startup.TestHostConfigAutomaticDeployment.BIO.txt:expected:<FAILED> but was:<STARTING_PREP>
+output/build/logs/TEST-org.apache.catalina.startup.TestHostConfigAutomaticDeployment.BIO.txt:junit.framework.AssertionFailedError: expected:<FAILED> but was:<STARTING_PREP>
+output/build/logs/TEST-org.apache.catalina.startup.TestHostConfigAutomaticDeployment.BIO.txt:	FAILED
+output/build/logs/TEST-org.apache.catalina.startup.TestHostConfigAutomaticDeployment.BIO.txt:expected:<FAILED> but was:<STARTING_PREP>
+output/build/logs/TEST-org.apache.catalina.startup.TestHostConfigAutomaticDeployment.BIO.txt:junit.framework.AssertionFailedError: expected:<FAILED> but was:<STARTING_PREP>
+output/build/logs/TEST-org.apache.catalina.startup.TestHostConfigAutomaticDeployment.BIO.txt:	FAILED
+output/build/logs/TEST-org.apache.catalina.startup.TestHostConfigAutomaticDeployment.BIO.txt:expected:<FAILED> but was:<STARTING_PREP>
+output/build/logs/TEST-org.apache.catalina.startup.TestHostConfigAutomaticDeployment.BIO.txt:junit.framework.AssertionFailedError: expected:<FAILED> but was:<STARTING_PREP>
+output/build/logs/TEST-org.apache.catalina.startup.TestHostConfigAutomaticDeployment.BIO.txt:	FAILED
+output/build/logs/TEST-org.apache.catalina.startup.TestHostConfigAutomaticDeployment.BIO.txt:expected:<FAILED> but was:<STARTING_PREP>
+output/build/logs/TEST-org.apache.catalina.startup.TestHostConfigAutomaticDeployment.BIO.txt:junit.framework.AssertionFailedError: expected:<FAILED> but was:<STARTING_PREP>
+output/build/logs/TEST-org.apache.catalina.startup.TestHostConfigAutomaticDeployment.BIO.txt:	FAILED
+output/build/logs/TEST-org.apache.catalina.startup.TestHostConfigAutomaticDeployment.BIO.txt:	FAILED
+output/build/logs/TEST-org.apache.catalina.startup.TestHostConfigAutomaticDeployment.BIO.txt:	FAILED
+output/build/logs/TEST-org.apache.catalina.startup.TestHostConfigAutomaticDeployment.BIO.txt:	FAILED
+output/build/logs/TEST-org.apache.catalina.startup.TestHostConfigAutomaticDeployment.BIO.txt:	FAILED
+output/build/logs/TEST-org.apache.catalina.startup.TestHostConfigAutomaticDeployment.BIO.txt:	FAILED
+output/build/logs/TEST-org.apache.catalina.startup.TestHostConfigAutomaticDeployment.BIO.txt:	FAILED
+output/build/logs/TEST-org.apache.catalina.startup.TestHostConfigAutomaticDeployment.BIO.txt:	FAILED
+output/build/logs/TEST-org.apache.catalina.startup.TestHostConfigAutomaticDeployment.BIO.txt:	FAILED
+output/build/logs/TEST-org.apache.catalina.startup.TestHostConfigAutomaticDeployment.BIO.txt:	FAILED
+output/build/logs/TEST-org.apache.catalina.startup.TestHostConfigAutomaticDeployment.BIO.txt:	FAILED
+output/build/logs/TEST-org.apache.catalina.startup.TestHostConfigAutomaticDeployment.BIO.txt:	FAILED
+output/build/logs/TEST-org.apache.catalina.startup.TestHostConfigAutomaticDeployment.BIO.txt:	FAILED
+output/build/logs/TEST-org.apache.catalina.startup.TestHostConfigAutomaticDeployment.BIO.txt:	FAILED
+output/build/logs/TEST-org.apache.catalina.startup.TestHostConfigAutomaticDeployment.BIO.txt:	FAILED
+output/build/logs/TEST-org.apache.catalina.startup.TestHostConfigAutomaticDeployment.BIO.txt:	FAILED
+output/build/logs/TEST-org.apache.catalina.startup.TestHostConfigAutomaticDeployment.BIO.txt:	FAILED
+output/build/logs/TEST-org.apache.catalina.startup.TestHostConfigAutomaticDeployment.BIO.txt:	FAILED
+output/build/logs/TEST-org.apache.catalina.startup.TestHostConfigAutomaticDeployment.BIO.txt:	FAILED
+output/build/logs/TEST-org.apache.catalina.startup.TestHostConfigAutomaticDeployment.NIO.txt:	FAILED
+output/build/logs/TEST-org.apache.catalina.startup.TestHostConfigAutomaticDeployment.NIO.txt:	FAILED
+output/build/logs/TEST-org.apache.catalina.startup.TestHostConfigAutomaticDeployment.NIO.txt:	FAILED
+output/build/logs/TEST-org.apache.catalina.startup.TestHostConfigAutomaticDeployment.NIO.txt:	FAILED
+output/build/logs/TEST-org.apache.catalina.startup.TestHostConfigAutomaticDeployment.NIO.txt:	FAILED
+output/build/logs/TEST-org.apache.catalina.startup.TestHostConfigAutomaticDeployment.NIO.txt:	FAILED
+output/build/logs/TEST-org.apache.catalina.startup.TestHostConfigAutomaticDeployment.NIO.txt:	FAILED
+output/build/logs/TEST-org.apache.catalina.startup.TestHostConfigAutomaticDeployment.NIO.txt:	FAILED
+output/build/logs/TEST-org.apache.catalina.startup.TestHostConfigAutomaticDeployment.NIO.txt:	FAILED
+output/build/logs/TEST-org.apache.catalina.startup.TestHostConfigAutomaticDeployment.NIO.txt:	FAILED
+output/build/logs/TEST-org.apache.catalina.startup.TestHostConfigAutomaticDeployment.NIO.txt:	FAILED
+output/build/logs/TEST-org.apache.catalina.startup.TestHostConfigAutomaticDeployment.NIO.txt:	FAILED
+output/build/logs/TEST-org.apache.catalina.startup.TestHostConfigAutomaticDeployment.NIO.txt:	FAILED
+output/build/logs/TEST-org.apache.catalina.startup.TestHostConfigAutomaticDeployment.NIO.txt:	FAILED
+output/build/logs/TEST-org.apache.catalina.startup.TestHostConfigAutomaticDeployment.NIO.txt:	FAILED
+output/build/logs/TEST-org.apache.catalina.startup.TestHostConfigAutomaticDeployment.NIO.txt:	FAILED
+output/build/logs/TEST-org.apache.catalina.startup.TestHostConfigAutomaticDeployment.NIO.txt:	FAILED
+output/build/logs/TEST-org.apache.catalina.startup.TestHostConfigAutomaticDeployment.NIO.txt:	FAILED
+output/build/logs/TEST-org.apache.catalina.startup.TestHostConfigAutomaticDeployment.NIO.txt:expected:<STARTED> but was:<FAILED>
+output/build/logs/TEST-org.apache.catalina.startup.TestHostConfigAutomaticDeployment.NIO.txt:junit.framework.AssertionFailedError: expected:<STARTED> but was:<FAILED>
+output/build/logs/TEST-org.apache.catalina.startup.TestHostConfigAutomaticDeployment.NIO.txt:	FAILED
+output/build/logs/TEST-org.apache.catalina.startup.TestHostConfigAutomaticDeployment.NIO.txt:	FAILED
+output/build/logs/TEST-org.apache.catalina.startup.TestHostConfigAutomaticDeployment.NIO.txt:	FAILED
+output/build/logs/TEST-org.apache.catalina.startup.TestHostConfigAutomaticDeployment.NIO.txt:	FAILED
+output/build/logs/TEST-org.apache.catalina.startup.TestHostConfigAutomaticDeployment.NIO.txt:expected:<FAILED> but was:<STARTING_PREP>
+output/build/logs/TEST-org.apache.catalina.startup.TestHostConfigAutomaticDeployment.NIO.txt:junit.framework.AssertionFailedError: expected:<FAILED> but was:<STARTING_PREP>
+output/build/logs/TEST-org.apache.catalina.startup.TestHostConfigAutomaticDeployment.NIO.txt:	FAILED
+output/build/logs/TEST-org.apache.catalina.startup.TestHostConfigAutomaticDeployment.NIO.txt:expected:<FAILED> but was:<STARTING_PREP>
+output/build/logs/TEST-org.apache.catalina.startup.TestHostConfigAutomaticDeployment.NIO.txt:junit.framework.AssertionFailedError: expected:<FAILED> but was:<STARTING_PREP>
+output/build/logs/TEST-org.apache.catalina.startup.TestHostConfigAutomaticDeployment.NIO.txt:	FAILED
+output/build/logs/TEST-org.apache.catalina.startup.TestHostConfigAutomaticDeployment.NIO.txt:expected:<FAILED> but was:<STARTING_PREP>
+output/build/logs/TEST-org.apache.catalina.startup.TestHostConfigAutomaticDeployment.NIO.txt:junit.framework.AssertionFailedError: expected:<FAILED> but was:<STARTING_PREP>
+output/build/logs/TEST-org.apache.catalina.startup.TestHostConfigAutomaticDeployment.NIO.txt:	FAILED
+output/build/logs/TEST-org.apache.catalina.startup.TestHostConfigAutomaticDeployment.NIO.txt:expected:<FAILED> but was:<STARTING_PREP>
+output/build/logs/TEST-org.apache.catalina.startup.TestHostConfigAutomaticDeployment.NIO.txt:junit.framework.AssertionFailedError: expected:<FAILED> but was:<STARTING_PREP>
+output/build/logs/TEST-org.apache.catalina.startup.TestHostConfigAutomaticDeployment.NIO.txt:	FAILED
+output/build/logs/TEST-org.apache.catalina.startup.TestHostConfigAutomaticDeployment.NIO.txt:	FAILED
+output/build/logs/TEST-org.apache.catalina.startup.TestHostConfigAutomaticDeployment.NIO.txt:	FAILED
+output/build/logs/TEST-org.apache.catalina.startup.TestHostConfigAutomaticDeployment.NIO.txt:	FAILED
+output/build/logs/TEST-org.apache.catalina.startup.TestHostConfigAutomaticDeployment.NIO.txt:	FAILED
+output/build/logs/TEST-org.apache.catalina.startup.TestHostConfigAutomaticDeployment.NIO.txt:	FAILED
+output/build/logs/TEST-org.apache.catalina.startup.TestHostConfigAutomaticDeployment.NIO.txt:	FAILED
+output/build/logs/TEST-org.apache.catalina.startup.TestHostConfigAutomaticDeployment.NIO.txt:	FAILED
+output/build/logs/TEST-org.apache.catalina.startup.TestHostConfigAutomaticDeployment.NIO.txt:	FAILED
+output/build/logs/TEST-org.apache.catalina.startup.TestHostConfigAutomaticDeployment.NIO.txt:	FAILED
+output/build/logs/TEST-org.apache.catalina.startup.TestHostConfigAutomaticDeployment.NIO.txt:	FAILED
+output/build/logs/TEST-org.apache.catalina.startup.TestHostConfigAutomaticDeployment.NIO.txt:	FAILED
+output/build/logs/TEST-org.apache.catalina.startup.TestHostConfigAutomaticDeployment.NIO.txt:	FAILED
+output/build/logs/TEST-org.apache.catalina.startup.TestHostConfigAutomaticDeployment.NIO.txt:	FAILED
+output/build/logs/TEST-org.apache.catalina.startup.TestHostConfigAutomaticDeployment.NIO.txt:	FAILED
+output/build/logs/TEST-org.apache.catalina.startup.TestHostConfigAutomaticDeployment.NIO.txt:	FAILED
+output/build/logs/TEST-org.apache.catalina.startup.TestHostConfigAutomaticDeployment.NIO.txt:	FAILED
+output/build/logs/TEST-org.apache.catalina.startup.TestHostConfigAutomaticDeployment.NIO.txt:	FAILED
+output/build/logs/TEST-org.apache.catalina.startup.TestHostConfigAutomaticDeployment.NIO.txt:	FAILED
